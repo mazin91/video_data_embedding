@@ -6,3 +6,5 @@ There are many techniques to embed the data inside the video sequences.
 This data embedding process results in distortion in the video signal called embedding distortion. 
 Often, this distortion is very small as we are going to see in testing resutls. 
 Video-based data embedding techniques are used in various applications such as authentication, content-protection, and secret communications.
+
+This project is based on the standard MPEG video format.
